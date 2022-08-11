@@ -1,0 +1,11 @@
+C:\Users\Aluno\source\repos\WindowsFormsCadastro\WindowsFormsCadastro\bin\Debug\WindowsFormsCadastro.exe.config
+C:\Users\Aluno\source\repos\WindowsFormsCadastro\WindowsFormsCadastro\bin\Debug\WindowsFormsCadastro.exe
+C:\Users\Aluno\source\repos\WindowsFormsCadastro\WindowsFormsCadastro\bin\Debug\WindowsFormsCadastro.pdb
+C:\Users\Aluno\source\repos\WindowsFormsCadastro\WindowsFormsCadastro\obj\Debug\WindowsFormsCadastro.csprojAssemblyReference.cache
+C:\Users\Aluno\source\repos\WindowsFormsCadastro\WindowsFormsCadastro\obj\Debug\WindowsFormsCadastro.Properties.Resources.resources
+C:\Users\Aluno\source\repos\WindowsFormsCadastro\WindowsFormsCadastro\obj\Debug\WindowsFormsCadastro.csproj.GenerateResource.cache
+C:\Users\Aluno\source\repos\WindowsFormsCadastro\WindowsFormsCadastro\obj\Debug\WindowsFormsCadastro.csproj.CoreCompileInputs.cache
+C:\Users\Aluno\source\repos\WindowsFormsCadastro\WindowsFormsCadastro\obj\Debug\WindowsFormsCadastro.exe
+C:\Users\Aluno\source\repos\WindowsFormsCadastro\WindowsFormsCadastro\obj\Debug\WindowsFormsCadastro.pdb
+C:\Users\Aluno\source\repos\WindowsFormsCadastro\WindowsFormsCadastro\obj\Debug\WindowsFormsCadastro.CadastroUsuario.resources
+C:\Users\Aluno\source\repos\WindowsFormsCadastro\WindowsFormsCadastro\obj\Debug\WindowsFormsCadastro.Cadastro.resources
